@@ -1,7 +1,8 @@
-
 const express = require('express');
 const dotenv = require('dotenv');
 const connectDB = require('./config/connection');
+const userRoutes = require('./routes/userRoutes');
+const thoughtRoutes = require('./routes/thoughtRoutes');
 
 // Load environment variables
 dotenv.config();
@@ -19,6 +20,9 @@ connectDB();
 app.get('/', (req, res) => {
     res.send('API is running...');
 });
+
+app.use('/api/users', userRoutes);
+app.use('/api/thoughts', thoughtRoutes);
 
 const PORT = process.env.PORT || 3001;
 
