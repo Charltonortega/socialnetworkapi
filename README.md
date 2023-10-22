@@ -13,15 +13,68 @@ A robust and scalable API designed for modern social networking platforms, built
 
 ## 📸 Screenshot
 
-![Insert a screenshot of a sample API response or any relevant image](URL_TO_YOUR_IMAGE)
+### Get all users
 
-## 🚀 Demo GIF
+![Get all users](./assets/screenshots/GETusers.png)
 
-![Demo GIF](URL_TO_YOUR_GIF)
+### Get a single user
+
+![Get a single user](./assets/screenshots/getsingleid.png)
+
+### Create a new user
+
+![Get a single user](./assets/screenshots/postuser.png)
+
+### Update a user
+
+![Get a single user](./assets/screenshots/updateuser.png)
+
+### Delete a user
+
+![Get a single user](./assets/screenshots/deleteuser.png)
+
+### Add a friend
+
+![Get a single user](./assets/screenshots/deleteuser.png)
+
+### Remove a friend
+
+![Get a single user](./assets/screenshots/deletefriend.png)
+### Get all thoughts
+
+![Get a single user](./assets/screenshots/getallthoughts.png)
+
+### Get a single thought
+
+![Get a single user](./assets/screenshots/getsinglethoughtbyid.png)
+
+### Create a new thought
+
+![Get a single user](./assets/screenshots/postnewthought.png)
+
+### Update a thought
+
+![Get a single user](./assets/screenshots/updatedthought.png)
+
+### Delete a thought
+
+![Get a single user](./assets/screenshots/deletethought.png)
+
+### Add a reaction
+
+![Get a single user](./assets/screenshots/postreaction.png)
+
+### Delete a reaction
+
+![Get a single user](./assets/screenshots/deletereaction.png)
+
+
 
 ## 📷 Video Demo
 
-[Watch the Video Demo](URL_TO_YOUR_VIDEO)
+### Click here to watch demo
+
+[Watch the Video Demo](https://drive.google.com/file/d/133YaKL4T4gYAddGjYYTtIRN3QJ7R3-Eh/view?usp=sharing)
 
 ## 🛠 Setup
 
